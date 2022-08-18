@@ -1,3 +1,6 @@
+.idea
+export/*.csv
+
 # Logs
 logs
 *.log
